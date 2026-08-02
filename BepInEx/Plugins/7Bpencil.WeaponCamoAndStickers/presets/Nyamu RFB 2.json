@@ -1,0 +1,707 @@
+[
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "Laventa ish Body",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.8888889,
+      "y": 0.193548381,
+      "z": 0.4862745,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400058925,
+      "y": -0.387046933,
+      "z": -0.07754889
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.758976042,
+      "y": 0.04,
+      "z": 0.240913615
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "Laventa ish Body (2)",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.8888889,
+      "y": 0.193548381,
+      "z": 0.4862745,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04000563,
+      "y": -0.03746326,
+      "z": -0.08711529
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "LocalScale": {
+      "x": 0.373259127,
+      "y": 0.7221727,
+      "z": 0.2613708
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "Laventa ish Body (3)",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.8888889,
+      "y": 0.193548381,
+      "z": 0.4862745,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400081128,
+      "y": -0.73676914,
+      "z": -0.08485839
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -180.0
+    },
+    "LocalScale": {
+      "x": 0.373259127,
+      "y": 0.693146,
+      "z": 0.2527442
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "Laventa ish Body (4)",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.8888889,
+      "y": 0.193548381,
+      "z": 0.4862745,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04000824,
+      "y": -0.5154741,
+      "z": 0.0426630862
+    },
+    "LocalEulerAngles": {
+      "x": 270.0,
+      "y": 0.0,
+      "z": 180.0
+    },
+    "LocalScale": {
+      "x": 0.373259127,
+      "y": 0.107575744,
+      "z": 1.296963
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "Laventa ish Body (5)",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.8888889,
+      "y": 0.193548381,
+      "z": 0.4862745,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400121734,
+      "y": -0.515518546,
+      "z": -0.105337419
+    },
+    "LocalEulerAngles": {
+      "x": 90.0,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "LocalScale": {
+      "x": 0.373259127,
+      "y": 0.107575744,
+      "z": 1.296963
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "Red Stripe",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.00320512778,
+      "y": 0.650000036,
+      "z": 0.3137255,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400007144,
+      "y": -0.5105231,
+      "z": -0.0392444357
+    },
+    "LocalEulerAngles": {
+      "x": 314.5896,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.101157881,
+      "y": 0.04,
+      "z": 0.6482487
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "Red Stripe (2)",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.00320512778,
+      "y": 0.650000036,
+      "z": 0.3137255,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400053263,
+      "y": -0.5623188,
+      "z": -0.09761904
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -180.0
+    },
+    "LocalScale": {
+      "x": 0.101157881,
+      "y": 0.04,
+      "z": 0.178237423
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "Red Stripe (3)",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.00320512778,
+      "y": 0.650000036,
+      "z": 0.3137255,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400088429,
+      "y": -0.446713716,
+      "z": -0.0205805581
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -360.0
+    },
+    "LocalScale": {
+      "x": 0.09429962,
+      "y": 0.0414873,
+      "z": 0.09691606
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "Red Body ",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.00320512778,
+      "y": 0.650000036,
+      "z": 0.3137255,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": 0.0400082879,
+      "y": -0.5492301,
+      "z": 0.143305868
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.6941094,
+      "y": 0.04,
+      "z": 0.2
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "Red Body (2)",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.00320512778,
+      "y": 0.650000036,
+      "z": 0.3137255,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": 0.04000717,
+      "y": -0.8987268,
+      "z": 0.142975777
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 180.0
+    },
+    "LocalScale": {
+      "x": 0.266960859,
+      "y": 0.723940432,
+      "z": 0.2
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "Red Body (3)",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.00320512778,
+      "y": 0.650000036,
+      "z": 0.3137255,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": 0.040011283,
+      "y": -0.131504908,
+      "z": 0.142205074
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "LocalScale": {
+      "x": 0.266960859,
+      "y": 0.723940432,
+      "z": 0.2
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "Red Body (4)",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.00320512778,
+      "y": 0.650000036,
+      "z": 0.3137255,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": 0.0400135629,
+      "y": -0.5014332,
+      "z": 0.160771474
+    },
+    "LocalEulerAngles": {
+      "x": 90.0,
+      "y": 180.0,
+      "z": 180.0
+    },
+    "LocalScale": {
+      "x": 0.266960859,
+      "y": 0.116284512,
+      "z": 0.675395846
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "Red Body (4)",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.00320512778,
+      "y": 0.650000036,
+      "z": 0.3137255,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": 0.04001395,
+      "y": -0.5014529,
+      "z": 0.05635201
+    },
+    "LocalEulerAngles": {
+      "x": 270.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "LocalScale": {
+      "x": 0.266960859,
+      "y": 0.0274801571,
+      "z": 0.675395846
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "",
+    "Texture": "stickers/LielleStuf/Bandori/Nyamu2.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400250144,
+      "y": -0.462733179,
+      "z": -0.0189514738
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.127051428,
+      "y": 0.04,
+      "z": 0.127051428
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 8,
+    "SaveTime": 1784935853465,
+    "Name": "",
+    "Texture": "stickers/LielleStuf/Bandori/Nyamu3.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400024466,
+      "y": -0.211070478,
+      "z": -0.0909026
+    },
+    "LocalEulerAngles": {
+      "x": 348.342834,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.117791452,
+      "y": 0.04,
+      "z": 0.123394214
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]
